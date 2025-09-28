@@ -17,7 +17,6 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 Projects focused on System Administrator, scripting and automation with Linux and Windows Server. 
 
 - [FOG Project Setup](https://github.com/CyberAnalystMH/FOG_Project_Setup/blob/main/README.md)
-
 - [Proxmox Server](https://github.com/CyberAnalystMH/My_Proxmox_Set-up/blob/main/README.md) 
 - [Linux Script For Arch Linux ](https://github.com/CyberAnalystMH/Arch_Linux_Setup_Script/blob/main/README.md) 
 
