@@ -16,8 +16,8 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 ## 👑 System Administrator Projects
 Projects focused on System Administrator, scripting and automation with Linux and Windows Server. 
 
-- [Proxmox Server](https://github.com/CyberSecHazaa/My_Proxmox_Set-up/blob/main/README.md) 
-- [Linux Script For Arch Linux ](https://github.com/CyberSecHazaa/Arch_Linux_Setup_Script/blob/main/README.md) 
+- [Proxmox Server](https://github.com/CyberAnalystMH/My_Proxmox_Set-up/blob/main/README.md) 
+- [Linux Script For Arch Linux ](https://github.com/CyberAnalystMH/Arch_Linux_Setup_Script/blob/main/README.md) 
 
 
 
@@ -25,9 +25,9 @@ Projects focused on System Administrator, scripting and automation with Linux an
 ## 🛡️ GRC Projects
 Projects focused on Governance, Risk, and Compliance (GRC). These include policy frameworks, risk assessments, compliance tracking tools, and audit documentation.
 
-- [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices/blob/main/README.md) 
-- [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-/blob/main/README.md)
-- [Phishing and Security Awareness Program](https://github.com/CyberSecHazaa/GRC_Phishing_Security_Awareness_Program/blob/main/README.md) 
+- [Risk Assessment Personal Devices](https://github.com/CyberAnalystMH/Risk_Assessment_Personal_Devices/blob/main/README.md) 
+- [GRC Security Policies Project](https://github.com/CyberAnalystMH/GRC_Security_Policies-/blob/main/README.md)
+- [Phishing and Security Awareness Program](https://github.com/CyberAnalystMH/GRC_Phishing_Security_Awareness_Program/blob/main/README.md) 
 
 
 
