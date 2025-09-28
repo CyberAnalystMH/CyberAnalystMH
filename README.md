@@ -40,4 +40,4 @@ Projects related to defensive cybersecurity operations such as monitoring, incid
 ## 🔴 Red Teaming Projects
 Offensive security projects including penetration testing, adversary emulation, and exploit development.
 
-- [PI PROJECT](https://github.com/CyberAnalystMH/PiBox)
+- [PI PROJECT](https://github.com/CyberAnalystMH/PiBox/blob/main/README.md)
