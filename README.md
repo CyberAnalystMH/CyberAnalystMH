@@ -13,7 +13,7 @@ IoT Development
 Practical experience with Raspberry Pi and other IoT technologies, focusing on security and network monitoring.
 Proficient in setting up secure IoT systems and ensuring reliable communication between devices.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# Cybersecurity Projects:
 
 ## 👑 System Administrator Projects
 Projects focused on System Administrator, scripting and automation with Linux and Windows Server. 
