@@ -1,7 +1,7 @@
 <h1>Hello, I'm MH! <br/><a href="https://github.com/CyberAnalystMH">Pursuing Cybersecurity Degree </a>
   
 <h2> Summary:</h2>
-Proven and hard-working Cybersecurity-focused individual with a strong foundation in technical expertise, specializing in Linux, IoT, and network fundamentals. I'm eager to learn and solve problems relating to Cybersecurity.
+Proven and hard-working Cybersecurity-focused individual with a strong foundation in technical expertise, specializing in Linux, Blue Teaming, and GRC. I'm eager to learn and solve problems relating to Cybersecurity.
 <h2>Technical Skills:</h2>
 </h2>- Cybersecurity & IT -</h2>
 
