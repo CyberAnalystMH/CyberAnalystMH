@@ -27,7 +27,7 @@ Projects focused on Governance, Risk, and Compliance (GRC). These include policy
 ## 🔵 Blue Teaming Projects
 Projects related to defensive cybersecurity operations such as monitoring, incident response, threat hunting, and security automation.
 
-- [Securing Systems Using HIPS HIDS Tools](https://github.com/CyberAnalystMH/Securing_Systems_Using_HIPS_HIDS_Tools/blob/main/README.md
+- [Securing Systems Using HIPS/HIDS Tools](https://github.com/CyberAnalystMH/Securing_Systems_Using_HIPS_HIDS_Tools/blob/main/README.md
 ) 
 
 
