@@ -29,8 +29,8 @@ Projects related to defensive cybersecurity operations such as monitoring, incid
 
 - [Securing Systems Using HIPS/HIDS Tools](https://github.com/CyberAnalystMH/Securing_Systems_Using_HIPS_HIDS_Tools/blob/main/README.md
 ) 
-
-
+- [Wazuh Project](https://github.com/CyberAnalystMH/Wazuh_Project/blob/main/README.md
+) 
 
 
 ## 🔴 Red Teaming Projects
