@@ -12,7 +12,7 @@ Projects focused on System Administrator, scripting and automation with Linux an
 - [FOG Project Setup](https://github.com/CyberAnalystMH/FOG_Project_Setup/blob/main/README.md)
 - [Proxmox Server (OLD & UNFINISHED)](https://github.com/CyberAnalystMH/My_Proxmox_Set-up/blob/main/README.md) 
 - [Linux Script For Arch Linux](https://github.com/CyberAnalystMH/Arch_Linux_Setup_Script/blob/main/README.md)
-- [Future Server Closet](https://github.com/CyberAnalystMH/Future_Server_Closet/blob/main/README.md)
+- [Future Server Closet (OLD & UNFINISHED)](https://github.com/CyberAnalystMH/Future_Server_Closet/blob/main/README.md)
 
 
 
@@ -28,9 +28,9 @@ Projects focused on Governance, Risk, and Compliance (GRC). These include policy
 ## 🔵 Blue Teaming Projects
 Projects related to defensive cybersecurity operations such as monitoring, incident response, threat hunting, and security automation.
 
-- [Securing Systems Using HIPS/HIDS Tools](https://github.com/CyberAnalystMH/Securing_Systems_Using_HIPS_HIDS_Tools/blob/main/README.md
+- [Securing Systems Using HIPS/HIDS Tools (OLD & UNFINISHED)](https://github.com/CyberAnalystMH/Securing_Systems_Using_HIPS_HIDS_Tools/blob/main/README.md
 ) 
-- [Wazuh Project](https://github.com/CyberAnalystMH/Wazuh_Project/blob/main/README.md
+- [Wazuh Project (OLD & UNFINISHED)](https://github.com/CyberAnalystMH/Wazuh_Project/blob/main/README.md
 ) 
 
 
