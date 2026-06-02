@@ -14,7 +14,7 @@ Proven and hard-working Cybersecurity-focused individual with a strong foundatio
 
 
 ## 👑 Linux System Administration/DevOps Projects
-Projects focused on System Administrator, scripting and automation with Linux and Windows Server.
+Projects focused on System Administration, scripting and automation with Linux.
 
 - [Homelab Overview](https://github.com/CyberAnalystMH/Homelab_Overview/blob/main/README.md)
 - [FOG Project Setup](https://github.com/CyberAnalystMH/FOG_Project_Setup/blob/main/README.md)
